@@ -7,7 +7,7 @@ https://app.pluralsight.com/player?course=react-redux-react-router-es6&author=co
 but first this
 https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents
 
-don't bother with the flux modules 9 and 10- go traight to the new course!
+don't bother with the flux modules 9 and 10- go straight to the new course!
 ======================
 html should be a projection of app state, not a source of truth
 html and js in the same file!
